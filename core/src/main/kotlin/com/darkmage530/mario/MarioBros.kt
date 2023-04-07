@@ -6,6 +6,7 @@ import com.darkmage530.mario.screens.PlayScreen
 
 const val V_WIDTH = 400f
 const val V_HEIGHT = 208f
+const val PPM: Float = 100f
 
 class MarioBros : Game() {
     lateinit var batch: SpriteBatch
